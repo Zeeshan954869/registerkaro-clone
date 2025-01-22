@@ -1,1 +1,0 @@
-# registerkaro-clone
